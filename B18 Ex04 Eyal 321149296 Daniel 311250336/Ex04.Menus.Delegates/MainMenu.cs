@@ -63,7 +63,6 @@ namespace Ex04.Menus.Delegates
                 }
             }
             while (userChoice != 0);
-            //bl
 
             Console.Clear();
         }

@@ -22,7 +22,7 @@ namespace Ex04.Menus.Test
             date = DateTime.Now;
 
             Console.Clear();
-            Console.WriteLine(date.Date.ToString());
+            Console.WriteLine(date.Date.ToString("dd/MM/yyyy"));
         }
 
         public void Run()
