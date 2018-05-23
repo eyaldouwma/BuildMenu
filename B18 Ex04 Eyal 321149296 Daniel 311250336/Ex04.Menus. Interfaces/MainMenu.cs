@@ -46,6 +46,8 @@ namespace Ex04.Menus.Interfaces
 
                 if ((userChoice < 0) || (userChoice > m_Menus.Count))
                 {
+                    Console.Clear();
+                    Console.WriteLine("Invalid input, please choose an option from the range");
                     userChoice = -1;
                 }
             }

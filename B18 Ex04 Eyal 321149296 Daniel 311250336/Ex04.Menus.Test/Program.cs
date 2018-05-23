@@ -29,15 +29,17 @@ namespace Ex04.Menus.Test
 
         private static void delegateMenu()
         {
+            MethodsClass MethodsToSend = new Test.MethodsClass();
+
             Ex04.Menus.Delegates.MainMenu menu1 = new Ex04.Menus.Delegates.MainMenu();
             Ex04.Menus.Delegates.SubMenu subMenu1 = new Ex04.Menus.Delegates.SubMenu("Show Date/Time");
             Ex04.Menus.Delegates.SubMenu subMenu2 = new Ex04.Menus.Delegates.SubMenu("Version and Capitals");
             menu1.AddMenu(new Method(subMenu1.Name, subMenu1.Run));
-            subMenu1.AddMenu(new Method(new ShowDate().Name, new ShowDate().ShowTheDate));
-            subMenu1.AddMenu(new Method(new ShowTime().Name, new ShowTime().ShowTheTime));
+            subMenu1.AddMenu(new Method(new ShowDate().Name, MethodsToSend.ShowTheDate));
+            subMenu1.AddMenu(new Method(new ShowTime().Name, MethodsToSend.ShowTheTime));
             menu1.AddMenu(new Method(subMenu2.Name, subMenu2.Run));
-            subMenu2.AddMenu(new Method(new ShowVersion().Name, new ShowVersion().ShowTheVersion));
-            subMenu2.AddMenu(new Method(new CountCapitals().Name, new CountCapitals().CountCapitalLetters));
+            subMenu2.AddMenu(new Method(new ShowVersion().Name, MethodsToSend.ShowTheVersion));
+            subMenu2.AddMenu(new Method(new CountCapitals().Name, MethodsToSend.CountCapitalLetters));
             menu1.Show();
         }
     }

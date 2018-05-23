@@ -7,3 +7,12 @@ C:\Users\Eyal Douwma\Desktop\C#\תרגיל 4\B18 Ex04 Eyal 321149296 Daniel 3112
 C:\Users\Eyal Douwma\Desktop\C#\תרגיל 4\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
 C:\Users\Eyal Douwma\Desktop\C#\תרגיל 4\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
 C:\Users\Eyal Douwma\Desktop\C#\תרגיל 4\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.exe
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.pdb
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.exe
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Test.pdb
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.dll
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.dll
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Interfaces.pdb
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\bin\Debug\Ex04.Menus.Delegates.pdb
+C:\Users\Eyal Douwma\Source\Repos\BuildMenu\B18 Ex04 Eyal 321149296 Daniel 311250336\Ex04.Menus.Test\obj\Debug\Ex04.Menus.Test.csprojResolveAssemblyReference.cache

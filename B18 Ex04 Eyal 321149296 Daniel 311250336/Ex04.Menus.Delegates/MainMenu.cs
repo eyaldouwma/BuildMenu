@@ -78,6 +78,8 @@ namespace Ex04.Menus.Delegates
 
                 if ((userChoice < 0) || (userChoice > m_MenuItems.Count))
                 {
+                    Console.Clear();
+                    Console.WriteLine("Invalid input, please choose an option from the range");
                     userChoice = -1;
                 }
             }
